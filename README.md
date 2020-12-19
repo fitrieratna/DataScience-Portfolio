@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Here are my portfolio projects regarding Data Analysis and Data Science work. 
+Here are my personal projects regarding Data Analysis and Data Science work. 
 For future work related to data analysis and data science, I'll keep it here. 
 
 It's always been pleasure to utilise this source code for your own perusal. 
