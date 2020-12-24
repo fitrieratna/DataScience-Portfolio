@@ -14,7 +14,7 @@ Happy learning and have bunch fascinated insight with data-driven analytics!
 List of Portfolio Work:
 1. Predicting Seattle Collision Severity using Machine Learning Classification (title : Predicting Seattle Collision Severity)
 2. Exploratory Data Analysis for Machine Learning on Worldwide - Successfull Startup (title : EDA-Startup)
-3. Predicting Successful Startup using Machine Learning (title : Machine Learning - Classification on Successful Start Up)
+3. Predicting Successful Startup using Machine Learning (title : Machine Learning Classification on Successful Start Up)
 
 
 
