@@ -16,6 +16,7 @@ List of Portfolio Work:
 2. Exploratory Data Analysis for Machine Learning on Worldwide - Successfull Startup (title : EDA-Startup)
 3. Predicting Successful Startup using Machine Learning (title : Machine Learning Classification on Successful Start Up)
 4. Customer Segmentation - Dimensionality Reduction case Credit Card 
+5. Predicting Startup Profit using Multi Linear Regression 
 
 
 
