@@ -18,6 +18,7 @@ List of Portfolio Work:
 4. Customer Segmentation - Dimensionality Reduction case Credit Card 
 5. Predicting Startup Profit using Multi Linear Regression 
 6. Fraud Detection in Credit Card Transaction
+7. Indonesia Covid-19 Forecast to Q1 2022 using Time Series Analysis
 
 
 
