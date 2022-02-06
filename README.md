@@ -3,7 +3,7 @@
 Here are my personal projects regarding Data Analysis and Data Science work. 
 For future work related to data analysis and data science, I'll keep it here. 
 
-You can also catch up about these works in humanly-mannered (XD) at https://ratnasari-fitrie.medium.com/. 
+You can also catch up about these works in humanly-mannered (XD) at https://journal.fitrie.id
 
 It's always been pleasure to utilise this source code for your own perusal. 
 
